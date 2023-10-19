@@ -20,7 +20,7 @@ class Rating extends Field
      * @var array
      */
     protected static $defaultStyles = [
-        'star-size' => 30,
+        'star-size' => 16,
         'active-color' => 'rgba(var(--colors-primary-500))',
         'inactive-color' => '#d8d8d8',
         'border-color' => 'var(--60)',
