@@ -1,0 +1,39 @@
+{
+    "name": "eom-plus/nova-rating-field",
+    "description": "A Laravel Rating Nova field.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "rating",
+        "field"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastien CRAMATTE",
+            "email": "oss@operativeit.es",
+            "homepage": "https://operativeit.es"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/nova": "^4.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "EomPlus\\NovaRatingField\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "EomPlus\\NovaRatingField\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
