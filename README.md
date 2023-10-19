@@ -12,6 +12,8 @@ Uses [vue-star-rating](https://github.com/craigh411/vue-star-rating).
 ![GitHub forks](https://img.shields.io/github/forks/operativeit/nova-rating-field)
 ![GitHub issues](https://img.shields.io/github/issues/operativeit/nova-rating-field)
 
+![image](https://github.com/operativeit/nova-rating-field/assets/188766/3eb11e60-cfad-4804-829c-ec7db80f14f7)
+
 
 ## Installation
 
