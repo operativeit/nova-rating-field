@@ -3,6 +3,8 @@
 A **Star rating field** to use in your Laravel Nova apps. 
 This package is highly based on [nikaia/nova-rating-field](https://github.com/nikaia/nova-rating-field) thas is incompatible with Nova4 and looks unmaintained for a while.
 
+This README was written by the original author and we just copy it here and change the package and field name.
+
 Uses [vue-star-rating](https://github.com/craigh411/vue-star-rating). 
 
 ## Installation
