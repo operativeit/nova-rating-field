@@ -7,6 +7,11 @@ This README was written by the original author and we just copy it here and chan
 
 Uses [vue-star-rating](https://github.com/craigh411/vue-star-rating). 
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/operativeit/nova-rating-field.svg?style=flat-square)](https://packagist.org/packages/operativeit/nova-rating-field)
+[![Total Downloads](https://img.shields.io/packagist/dt/operativeit/nova-rating-field.svg?style=flat-square)](https://packagist.org/packages/operativeit/nova-rating-field)
+
+
+
 ## Installation
 
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
